@@ -1,0 +1,1 @@
+Com os elementos, peças(monstros), tabuleiro e cartas dispostas, cada jogador deve almejar por derrotar todos os outros monstros do outro jogador. Ganha aquele que derrotar todos os outros monstros primeiro.

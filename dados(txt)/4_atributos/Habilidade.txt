@@ -1,0 +1,1 @@
+Indica o poder de magia que um monstro tem ao usar suas habilidades. 

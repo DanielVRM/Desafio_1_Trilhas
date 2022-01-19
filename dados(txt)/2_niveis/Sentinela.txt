@@ -1,0 +1,1 @@
+Sendo as peças de menor nível, os Sentinelas são os Monstros que iniciam a partida, utilizados para traçar os planos iniciais do jogador para indicarem o seu plano de jogo.

@@ -1,0 +1,1 @@
+Controladores são Monstros que tem um arsenal de habilidades para auxiliar os outros monstros da própria equipe, assim como atrapalhar e impedir o avanço de habilidades e movimentações de monstros inimigos.

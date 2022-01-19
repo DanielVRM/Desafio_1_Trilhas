@@ -1,0 +1,1 @@
+Indica o poder de ataque de um monstro, referindo-se aos seus golpes que causam dano físico.

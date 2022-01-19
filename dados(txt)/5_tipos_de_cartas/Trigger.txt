@@ -1,0 +1,1 @@
+As cartas Trigger são colocadas embaixo de cada Peça/Monstro, escondidas como se fossem armadilhas, esperando pelo confronto de um Monstro contra outro, onde elas serão reveladas e ativadas. O "Trigger" da ativação dessa carta é justamente quando um monstro que a possui embaixo de si, enfrenta outro monstro.

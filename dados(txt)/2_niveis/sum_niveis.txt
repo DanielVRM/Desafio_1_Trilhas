@@ -1,0 +1,14 @@
+Sentinela!Sendo as peças de menor nível, os Sentinelas são os Monstros que iniciam a partida, utilizados para traçar os planos iniciais do jogador para indicarem 
+o seu plano de jogo.
+!Recruta!Os monstros Recruta são logo depois habilitados para atuarem na partida após os monstros Sentinela. Sendo o nível posterior, os monstros Recruta devem ser 
+utilizados para fazer a conexão entre o monstro Sentinela e o monstro Comandante(Nível 3).
+!Comandante!Os Monstros comandante representam o nível intermediário dentro da hierarquia, e também são peças importantes e de "equilíbrio" para nortearem a primeira
+metade da estratégia de um jogador. Peças Comandante são utilizadas como pilares e são aquelas responsáveis por garantir que a estratégia inicial do Sentinela(Nível 1)
+chegue até o Ás(Nível 5). Seus Stats médios(dependendo da classe do Monstro) são os indicadores da confiança do jogador em escolher um monstro desse nível para que ele
+perdure pra habilitar os próximos níveis. Bons jogadores devem se atentar principalmente para o seu Comandante para que consigam extrair 100% de suas peças.
+!Soberano!Os monstros Soberanos são o segundo maior nível em monstros de Esfera e são peças com atributos suficientemente poderosos para finalizar uma partida por si 
+só, perdendo apenas para os monstros Ás. Os monstros Soberanos são aqueles já estabelecidos para revelarem qual é o plano de jogo do jogador que se encaminha para 
+habilitar o Ás a jogar.
+!As!O monstro Ás é aquele que no maior ranking de escala em Monstros de Esfera, identificando tanto o estilo de jogador quanto a peça que ele mais valoriza dentro 
+de jogo. Os monstros Ás são os mais poderosos, possuindo os stats mais elevados em suas respectivas classes, e todas as outras peças na hierarquia agem em volta dele 
+para habilitá-lo.

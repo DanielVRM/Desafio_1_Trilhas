@@ -1,0 +1,1 @@
+Capacidade de um Monstro participar ativamente de turnos. Quanto maior a velocidade, maior a participação de um Monstro durante vários turnos, consequentemente fazendo-o agir mais no jogo.

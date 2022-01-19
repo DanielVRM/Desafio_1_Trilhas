@@ -1,0 +1,1 @@
+Os pontos de mana são utilizados pelas habilidades de Monstros para poderem ativá-las. Se os pontos de mana de um monstro são reduzidos a 0, ele não será capaz de usar habilidades.

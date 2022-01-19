@@ -1,0 +1,7 @@
+Assistencia!As cartas de Assistência são utilizadas nas casas adjacentes ao monstro dentro do tabuleiro, isto é, as 4 direções(esquerda, direita, à frente 
+ou atrás). O número de cartas de assistência que um monstro pode possuir é de acordo com seu nível(Exemplo - Nível 1 = Pode possuir apenas uma carta de 
+Assistência, enquanto que Nível 2 = Pode possuir duas cartas de Assistência). Monstros Ás(Nível 5) não possuem restrições. As cartas de Assistência são 
+utilizadas para aumentarem seus stats base, ao mesmo tempo que podem possuir outros efeitos benéficos para habilidades. Seus efeitos só podem ser utilizados 
+uma vez por turno do Monstro e apenas no turno do jogador. Quando um Monstro que utiliza cartas de Assistência é derrotado, as cartas acopladas a ele são 
+removidas do jogo juntamente com o Monstro.
+!Trigger!As cartas Trigger são colocadas embaixo de cada Peça/Monstro, escondidas como se fossem armadilhas, esperando pelo confronto de um Monstro contra outro, onde elas serão reveladas e ativadas. O "Trigger" da ativação dessa carta é justamente quando um monstro que a possui embaixo de si, enfrenta outro monstro.	

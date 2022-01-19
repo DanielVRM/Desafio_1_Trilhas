@@ -1,0 +1,12 @@
+Guerreiro!Os guerreiros são os monstros que tomam a dianteira nas batalhas e possuem resistência e armadura suficiente para durarem longos turnos, no tabuleiro sempre 
+atuam na linha de frente e são os habilitadores para que os outros monstros possam usar todo o seu potencial. Utilizam dano de ataque e suas habilidades se especializam
+em confrontos em grupo.
+!Assassino!Assassinos são Monstros especializados em confrontos 1 contra 1, geralmente almejando alvos mais frágeis para eliminá-los rapidamente e sorrateiramente. 
+No tabuleiro, esses Monstros devem ser posicionados com perspicácia e possuem habilidades que podem pegar os monstros inimigos de surpresa. Seu kit envolve se 
+movimentar rapidamente pelo tabuleiro e possuem habilidades explosivas para eliminarem facilmente seus alvos. Utilizam tanto dano de ataque quanto dano de habilidade.
+!Mago!Os magos são Monstros que utilizam dano de habilidade e se especializam em confrontos em grupo, quando podem almejar vários alvos de uma vez para enfraquecê-los 
+e derrotá-los. Ao mesmo tempo que atuam a uma longa distância, assim como os Rangers, também são alvos frágeis que devem ser protegidos pelos monstros aliados.
+!Ranger!Os monstros Ranger são especializados em ataques à longa distância, sendo comumente posicionados em posições estratégicas no tabuleiro para conseguirem se 
+sobressair. Utilizam dano de ataque em suas habilidades.
+!Controlador!Controladores são Monstros que tem um arsenal de habilidades para auxiliar os outros monstros da própria equipe, assim como atrapalhar e impedir o avanço 
+de habilidades e movimentações de monstros inimigos.

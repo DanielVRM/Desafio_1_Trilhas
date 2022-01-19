@@ -1,0 +1,6 @@
+Elementos!O jogo é realizado em um tabuleiro 16x16. O jogo contem elementos inspirados pelo gênero RPG tático, com um sistema de combates por turno. O jogo se 
+assemelha ao estilo de jogo do Xadrez. O jogo utiliza Peças(Monstros) e Cartas. Cada jogador possui, no máximo, 5 Peças(Monstros) e um Baralho de, no máximo, 30 
+cartas. Cada Monstro possui um Nível e uma Classe. É possível ter monstros de um mesmo nível com um mesmo jogador, entretanto, a soma máxima do nível de todas as 
+peças do jogador deve ser 15.
+!Objetivo!Com os elementos, peças(monstros), tabuleiro e cartas dispostas, cada jogador deve almejar por derrotar todos os outros monstros do outro jogador. Ganha 
+aquele que derrotar todos os outros monstros primeiro.

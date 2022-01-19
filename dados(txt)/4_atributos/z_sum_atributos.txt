@@ -1,0 +1,10 @@
+Vida!Medida de vida de um Monstro/Unidade. Quando a vida de um Monstro é reduzida a 0, ele é derrotado e retirado do jogo.
+!Mana!Os pontos de mana são utilizados pelas habilidades de Monstros para poderem ativá-las. Se os pontos de mana de um monstro 
+são reduzidos a 0, ele não será capaz de usar habilidades.
+!Ataque!Indica o poder de ataque de um monstro, referindo-se aos seus golpes que causam dano físico.
+!Habilidade!Indica o poder de magia que um monstro tem ao usar suas habilidades. 
+!Velocidade!Capacidade de um Monstro participar ativamente de turnos. Quanto maior a velocidade, maior a participação de um Monstro 
+durante vários turnos, consequentemente fazendo-o agir mais no jogo.
+!Evasao!Capacidade de um monstro de esquivar tanto de um ataque quanto de uma habilidade de um monstro inimigo.
+!Armadura!Status que garante maior defesa contra dano de ataque.
+!Resistencia!Status que garante maior defesa contra poder de habilidade.

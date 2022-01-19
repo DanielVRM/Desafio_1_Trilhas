@@ -1,0 +1,1 @@
+Medida de vida de um Monstro/Unidade. Quando a vida de um Monstro é reduzida a 0, ele é derrotado e retirado do jogo.
